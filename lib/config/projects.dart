@@ -24,6 +24,6 @@ final List<Project> projects = [
       name: 'ShoesLaundry',
       image: Assets.shoeslaundry,
       description:
-          'A tracking laundry app for client who needs an App for their Shoes Laundry',
+          'A tracking laundry app for users/client who needs an App for their Shoes Laundry',
       link: 'https://github.com/radityarin/ShoesLaundry')
 ];
