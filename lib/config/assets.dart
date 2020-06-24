@@ -11,4 +11,5 @@ class Assets{
   static const bafifin= 'assets/project/bafifin.png';
   static const nulungi= 'assets/project/nulungi.png';
   static const delsa= 'assets/project/delsa.png';
+  static const shoeslaundry= 'assets/project/shoeslaundry.png';
 }
